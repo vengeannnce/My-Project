@@ -2,4 +2,5 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения
 ## Ссылки
-https://vengeannnce.github.io/My-Project/
+https://vengeannnce.github.io/My-Project/src
+
